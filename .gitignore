@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/runtime/
+/logs/
+*.log
+.env
